@@ -1,0 +1,121 @@
+{
+  "app/components/ComponentInfo.jsx": [
+    {
+      "description": "Description of component \"ComponentInfo\".",
+      "methods": [],
+      "props": {
+        "data": {
+          "type": {
+            "name": "object"
+          },
+          "required": false,
+          "description": "Description of prop \"data\"."
+        }
+      }
+    }
+  ],
+  "app/components/ComponentInfoList.jsx": [
+    {
+      "description": "Description of component \"ComponentInfo\".",
+      "methods": [],
+      "props": {
+        "list": {
+          "type": {
+            "name": "array"
+          },
+          "required": false,
+          "description": "Description of prop \"data\"."
+        }
+      }
+    }
+  ],
+  "app/components/DrawerMenu.jsx": [
+    {
+      "description": "Description of component \"DrawerMenu\".",
+      "methods": [],
+      "props": {
+        "list": {
+          "type": {
+            "name": "array"
+          },
+          "required": false,
+          "description": "Description of prop \"list:\"."
+        },
+        "selected": {
+          "type": {
+            "name": "string"
+          },
+          "required": false,
+          "description": "Description of prop \"onSelect\"."
+        },
+        "onSelect": {
+          "type": {
+            "name": "func"
+          },
+          "required": false,
+          "description": "Description of prop \"onSelect\"."
+        }
+      }
+    }
+  ],
+  "app/components/MethodsTable.jsx": [
+    {
+      "description": "Description of component \"MethodsTable\".",
+      "methods": [],
+      "props": {
+        "list": {
+          "type": {
+            "name": "array"
+          },
+          "required": false,
+          "description": "Description of prop \"list\"."
+        }
+      }
+    }
+  ],
+  "app/components/PropsTable.jsx": [
+    {
+      "description": "Description of component \"PropsTable\".",
+      "methods": [],
+      "props": {
+        "list": {
+          "type": {
+            "name": "array"
+          },
+          "required": false,
+          "description": "Description of prop \"list\"."
+        }
+      }
+    }
+  ],
+  "app/components/Upload.jsx": [
+    {
+      "description": "Description of component \"Upload\".",
+      "methods": [],
+      "props": {
+        "onUploadDone": {
+          "type": {
+            "name": "func"
+          },
+          "required": false,
+          "description": "Description of prop \"onUploadDone\"."
+        }
+      }
+    }
+  ],
+  "app/containers/App.jsx": [
+    {
+      "description": "Description of component \"App\".",
+      "methods": [],
+      "props": {
+        "data": {
+          "type": {
+            "name": "object"
+          },
+          "required": false,
+          "description": "Description of prop \"data\"."
+        }
+      }
+    }
+  ]
+}
